@@ -1,0 +1,5 @@
+# Created at 2025-05-20T00:14:29.223
+Boot Manifest-JAR contains absolute paths in classpath 'D:\ProjectVSC\apiautomationafteroffice\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
